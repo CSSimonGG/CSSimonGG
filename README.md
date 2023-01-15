@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSSimonGG
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web development (html, css and javascript)
-- 📫 You can reach me on discord: Simon.#3349
+- 🌱 I’m currently learning web development with Javascript and PHP
+- 📫 You can reach me on discord: Simon.#3349 or email: <a href="mailto:satmdeklerk@gmail.com">satmdeklerk@gmail.com</a>
 
 <!---
 CSSimonGG/CSSimonGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
