@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSSimonGG
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web development with Javascript and PHP
+- 👀 I’m interested in full stack web and app development
+- 🌱 I’m currently learning web development with Javascript/Vue.JS and PHP/Laravel
 - 📫 You can reach me on discord: Simon.#3349 or email: <a href="mailto:satmdeklerk@gmail.com">satmdeklerk@gmail.com</a>
 
 <!---
