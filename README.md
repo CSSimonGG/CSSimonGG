@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSSimonGG
-- 👀 I am a student and full stack web developer using Laravel and Vue.js
-- 📫 You can reach me on discord: cszimon or email: <a href="mailto:satmdeklerk@gmail.com">satmdeklerk@gmail.com</a>
+- 👀 I am a student software development and full stack web developer using Laravel and Vue.js
+- 📫 You can reach me on discord: cszimon or email: <a href="mailto:simon@sowedia.com">simon@sowedia.com</a>
 
 <!---
 CSSimonGG/CSSimonGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
